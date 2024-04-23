@@ -34,7 +34,8 @@ string namaMk;
           }
 };
 int main() {
-    
+     mahasiswa mhs;
+
 }
 
 
