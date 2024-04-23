@@ -14,6 +14,8 @@ void output() {
 };
 
 class Matakuliah {
+private:
+
 
 }
 
