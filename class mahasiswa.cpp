@@ -12,3 +12,8 @@ void output() {
             cout << "Jurusan:" << jurusan << endl;
         }
 };
+
+class Matakuliah {
+
+}
+
