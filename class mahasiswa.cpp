@@ -35,6 +35,7 @@ string namaMk;
 };
 int main() {
      mahasiswa mhs;
+     Matakuliah mk;
 
 }
 
