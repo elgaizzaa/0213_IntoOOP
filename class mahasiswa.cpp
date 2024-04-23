@@ -33,6 +33,9 @@ string namaMk;
               cout << "SKS : " << sks << endl; 
           }
 };
+int main() {
+    
+}
 
 
 
