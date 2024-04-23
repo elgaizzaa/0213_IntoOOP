@@ -34,18 +34,17 @@ string namaMk;
           }
 };
 int main() {
-     mahasiswa mhs;
-     Matakuliah mk;
+    mahasiswa mhs;
+    Matakuliah mk;
 
-     mhs.nama = "Budi";
+    mhs.nama = "Budi";
     mhs.umur = 20;
     mhs.jurusan = "Teknik Informatika";
     mhs.output();
 
   mk.input();
-    mk.output();
-
-
+  mk.output();
+return 0;
 }
 
 
