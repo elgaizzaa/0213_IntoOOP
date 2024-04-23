@@ -15,6 +15,7 @@ void output() {
 
 class Matakuliah {
 private:
+string kodeMk;
 
 
 }
